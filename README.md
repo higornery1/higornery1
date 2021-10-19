@@ -1,9 +1,9 @@
 ## Hello There, how are doing?
 
-- My name is Higor Nery
-- I live in Brazil
-- Today at the College
-- Front-End
+- My name is Higor Nery ✔
+- Living in Brazil ✔
+- Today at the College ✔
+- Front-End ✔
 
 <div align="center">
   <a href="https://github.com/higornery1">
