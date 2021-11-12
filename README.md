@@ -1,10 +1,12 @@
 ## Hello There, how are doing?
 
+<div align="center">
+
 - My name is Higor Nery ✔
 - Living in Brazil ✔
 - Today at the College ✔
 - Front-End ✔
-
+</div>
 <div align="center">
   <a href="https://github.com/higornery1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=higornery1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
